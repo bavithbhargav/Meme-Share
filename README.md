@@ -1,21 +1,13 @@
-# Meme-Share
-An android app which lets you share memes among your friends.
+# Meme-Share-App
+## Description
+* Unlimited Ad-Free Best Funny Memes!!
+* Provide functionality to share memes with your friends.
 
-Meme-Share-App
-Description
-Unlimited Ad-Free Best Funny Memes!!
-Provide functionality to share memes with your friends.
-Screenshots!
+## Screenshots!
+<img src="https://github.com/tanishq1306/Meme-Share-App/blob/main/Home%20Page.jpg" width ="250px" height ="450px">
+<img src="https://github.com/tanishq1306/Meme-Share-App/blob/main/Home%20Page%20(next).jpg" width ="250px" height ="450px">
+<img src="https://github.com/tanishq1306/Meme-Share-App/blob/main/Share.jpg" width ="250px" height ="450px">
 
-
-
-
-
-
-Resources Used
+#### Resources Used
 https://www.youtube.com/watch?v=W3lgZuaIuqU
 
-Youtube playlist for this Project: https://bit.ly/3hGQOfS
-</br>
-</br>
-[![Watch the video](https://img.youtube.com/vi/W3lgZuaIuqU/hqdefault.jpg)](https://youtu.be/W3lgZuaIuqU)
